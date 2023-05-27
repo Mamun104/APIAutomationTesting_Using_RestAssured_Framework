@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testrunner.UserTestRunner" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-05-27T12:33:53" hostname="DESKTOP-OSJ836R" time="5.024">
+  <properties/>
+  <testcase name="userDoNotLoginWithInvalidEmail" classname="testrunner.UserTestRunner" time="1.997"/>
+  <testcase name="userDoNotLoginWithInvalidPassword" classname="testrunner.UserTestRunner" time="0.055"/>
+  <testcase name="userCanNotLoginWithEmptyData" classname="testrunner.UserTestRunner" time="0.061"/>
+  <testcase name="doLogin" classname="testrunner.UserTestRunner" time="0.051"/>
+  <testcase name="getUserList" classname="testrunner.UserTestRunner" time="2.805"/>
+  <system-out><![CDATA[User not found
+Password incorrect
+User not found
+Login successfully
+8960
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

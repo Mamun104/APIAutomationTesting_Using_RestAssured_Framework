@@ -1,0 +1,8 @@
+<suite thread-count="1" verbose="1" name="User login automation suite">
+    <test name="User can login successfully">
+        <classes>
+            <class name="testrunner.UserTestRunner"/>
+        </classes>
+    </test>
+
+</suite>
